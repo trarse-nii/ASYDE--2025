@@ -2,7 +2,7 @@
 
 This directory contains the prompt templates used for the paper.
 
-- `system_prompt.txt`: The system prompt used to set the constraints for the suggested fixes.
+- `system_prompt.md`: The system prompt used to set the constraints for the suggested fixes.
 - [User Prompts](./User%20Prompts/README.md): Prompts used to provide the initial model and ask for a repair.
 - [Retry Prompts](./Retry%20Prompts/README.md): Prompts used when the previous suggestion did not successfully repair the model.
 
